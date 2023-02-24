@@ -1,10 +1,9 @@
-<strong>Hey, I'm Bruno Ivis!</strong> 👋<br>
-
+<h3><strong>Hey, I'm Bruno Ivis!</strong> 👋<br>
+</h3>
 Software Engineer <br>
 
-<strong>Find me elsewhere</strong> 🌎<br>
+<h3><strong>Find me elsewhere</strong> 🌎<br></h3>
 
-Site
 
 
 <p dir="auto">
