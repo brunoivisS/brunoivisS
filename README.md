@@ -1,16 +1,22 @@
-### Hi there 👋
+<strong>Hey, I'm Bruno Ivis!</strong> 👋<br>
 
-<!--
-**brunoivisS/brunoivisS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer <br>
 
-Here are some ideas to get you started:
+<strong>Find me elsewhere</strong> 🌎<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Site
+
+
+<p dir="auto">
+<a href="https://www.linkedin.com/in/bruno-ivis-silva-aquino-548922209/" rel="nofollow">LinkedIn</a>
+<br>
+<a href="https://www.instagram.com/bruno_yvis/"
+rel="nofollow">Instagram</a>
+<br>
+
+</p><br>
+
+
+🇧🇷 Born in Rio Branco, Brazil<br>
+
+s🇵 Living in Ribeirão Preto, The São Paulo
