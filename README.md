@@ -1,6 +1,6 @@
 <h3><strong>Hey, I'm Bruno Ivis!</strong> 👋<br>
 </h3>
-Software Engineer <br>
+Developer<br>
 
 <h3><strong>Find me elsewhere</strong> 🌎<br></h3>
 
